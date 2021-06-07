@@ -1,0 +1,37 @@
+.menu {
+    padding-top: 1vh;
+    margin: auto;
+    max-width: 100%;
+  
+    /* flexbox */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+    align-items: flex-start;
+
+    a {
+        background-color: none;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        padding-top: 0;
+        padding-bottom: 0;
+        font-size: 20px;
+        text-decoration: none;
+        display: inline-block;
+        color: black;
+        text-align: center;
+        margin: 0.5rem;
+        box-sizing: border-box;
+      
+        /* flexbox */
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+    }
+
+    a:hover {
+        color:#786785;
+    }
+}
