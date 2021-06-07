@@ -1,5 +1,10 @@
 # AngularScrollAnimation
 
+## Interactive Scrolling
+
+![angular-scroll-animation](https://user-images.githubusercontent.com/66818697/120965789-ec194400-c797-11eb-945a-d6d1f954464e.gif)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
 ## Development server
@@ -25,4 +30,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# angular-scroll-animation
